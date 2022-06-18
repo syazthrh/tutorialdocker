@@ -9,4 +9,4 @@ https://www.docker.com/get-started
 ### Setting and testing if Docker is running
 * After you have downloaded and installed the Docker, open the Docker engine and make sure the engine is running.
 * Open a command line(cmd) and run the following command to verify if Docker is correctly installed on your computer
- ![dockertest1](url)
+ ![dockertest1][(https://github.com/syazthrh/tutorialdocker/blob/main/DOCKER1.PNG)](https://github.com/syazthrh/tutorialdocker/blob/main/DOCKER1.PNG))
